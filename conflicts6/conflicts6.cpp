@@ -5,6 +5,8 @@ int main() {
     cout << "Hello from main branch!" << endl;
     cout << "New feature added" << endl; //1
     cout << "New feature 2 added" << endl; //2
+    cout << "New feature 3 added" << endl; //3
+
 
     return 0;
 }
